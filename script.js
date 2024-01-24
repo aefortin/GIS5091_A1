@@ -1,4 +1,4 @@
-var map = L.map('map').setView([38.6270,-90.1994], 11);
+var map = L.map('map').setView([38.634409,-90.2849854], 10);
 
 L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: 'Map tiles by Stamen Design, under CC BY 3.0.',
